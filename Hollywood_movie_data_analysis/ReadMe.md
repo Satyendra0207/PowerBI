@@ -1,5 +1,7 @@
 # Hollywood_movie_data_analysis 
 In this file I have build report for hollywood movie data using ## POWER BI as tool to get insights from the data .
+*  movie_data_dashboard contains the actual POWER BI Report.
+*  movie_data pdf contains a picture of dashboard in pdf format.
 
 <img width="278" alt="image" src="https://user-images.githubusercontent.com/91627799/218157873-17723e2a-fa08-4d79-a1c4-16d56f5a4e3c.png">
 
